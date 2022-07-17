@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
   String abbreviation='';
   String errorMessage='';
 
-  String searchApiUrl ='https://www.metaweather.com/api/location/search/?query=';
+  String searchApiUrl ='gthttps://www.metaweather.com/api/location/search/?query=';
   String locationApiUrl='https://www.metaweather.com/api/location/';
 
   @override

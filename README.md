@@ -6,8 +6,7 @@ A new Flutter project.
 ![Screenshot (115)](https://user-images.githubusercontent.com/109281535/179390435-1b1946a2-647a-4878-b945-00af84cf6d52.png)
 ![Screenshot (117)](https://user-images.githubusercontent.com/109281535/179390522-e42fcc7d-591e-4e88-bc35-2f0e24430d86.png)
 ![Screenshot (116)](https://user-images.githubusercontent.com/109281535/179390523-ce5638ef-b81e-488f-b547-71d0b8ee2c2b.png)
-![Screenshot (114)](https://user-images.githubusercontent.com/109281535/179390526-6d418b31-c8fa-48f1-bd99-5b24fb984636.png)
-![Screenshot (113)](https://user-images.githubusercontent.com/109281535/179390530-48fae288-55b9-4785-9a87-fdae3164ff33.png)
+
 
 This project is a starting point for a Flutter application.
 
